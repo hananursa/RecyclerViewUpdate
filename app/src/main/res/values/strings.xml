@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyRetrofitUpdate</string>
+    <string-array name="nis">
+        <item>5156</item>
+        <item>5177</item>
+    </string-array>
+</resources>
